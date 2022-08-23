@@ -1,4 +1,4 @@
 #### MoJo2 
 
-![Elly](/_images/elly.png "MoJo")
+![Elly](/images/elly.png "MoJo")
 
