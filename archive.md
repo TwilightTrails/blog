@@ -3,7 +3,7 @@ layout: page
 title: Archive
 ---
 
-![Elly alt >]({{ site.url }}/blog/favicon.png "MoJo")
+![Elly]({{ site.url }}/blog/images/elly.png "MoJo")
 
 {% for tag in site.tags %}
   <ul>
