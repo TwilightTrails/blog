@@ -11,10 +11,6 @@ Who am I?
 * I live alone – having been widowed a long time ago.
 * I am a retired school teacher.
 * I love road trips and being in the bush.
-* I have chosen the elephant as my mojo for several reasons: 
-  + She also lives into her 70s with strength and purpose; 
-  + She is the head of a matriach society (I like that!); i
-  + She guides her family herds safely down well-worn paths to favourite watering holes. 
 
 ### PLAN IT!
 
