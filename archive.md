@@ -9,7 +9,7 @@ title: Blog Archive
     {% for post in tag[1] %}
       <li>{{ site.url }}</li>
       <li>{{ post.url }}</li>
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+      <li><a href="{{ site.url }}/blog{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
