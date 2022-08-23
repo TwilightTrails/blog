@@ -1,2 +1,2 @@
-![Elly](_images/elly.png "MoJo")
+![Elly](/blog/_images/elly.png "MoJo")
 
