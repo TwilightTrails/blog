@@ -3,9 +3,7 @@
 ### Think IT!
 
 
-When I turned 70 I was faced with the lovely euphemism that I was entering my ‘twilight years’.  
-Well I decided to embrace every last colour a twilight presents and delay the sunset for as long as I am able.  
-I am not yet ready to let my age determine my possibilities!
+When I turned 70 I was faced with the lovely euphemism that I was entering my ‘twilight years’.   Well I decided to embrace every last colour a twilight presents and delay the sunset for as long as I am able.  I am not yet ready to let my age determine my possibilities!
 
 Who am I?
 
@@ -40,6 +38,16 @@ This will give me a chance to check out camp sites,
 availability of WiFi and other necessities before I start my single travels. 
 I am ready to go – to prove to myself that with determination and passion, 
 70 is not too old to start a new direction, to look for inspiration and adventure in life.
+
+### MoJo
+
+![Elly alt >]({{ site.url }}/blog/images/elly.png "MoJo") 
+
+I have chosen the elephant as my mojo for several reasons:
+
+* She also lives into her 70s with strength and purpose; 
+* She is the head of a matriach society (I like that!); i
+* She guides her family herds safely down well-worn paths to favourite watering holes. 
 
 ### See you on the road!
 
