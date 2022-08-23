@@ -1,6 +1,6 @@
 
 header {
-  background-image: url('{{ site.baseurl }}/images/elly.png');
+  background-image: url('{{ site.url }}/blog/images/elly.png');
 }
 
 hr {
