@@ -9,23 +9,23 @@ I am not yet ready to let my age determine my possibilities!
 
 Who am I?
 
-+ I am a mother and grandmother. 
-+ I live alone – having been widowed a long time ago.
-+ I am a retired school teacher.
-+ I love road trips and being in the bush.
-+ I have chosen the elephant as my mojo for several reasons: 
-- She also lives into her 70s with strength and purpose; 
-- she is the head of a matriach society (I like that!); i
-- she guides her family herds safely down well-worn paths to favourite watering holes. 
+* I am a mother and grandmother. 
+* I live alone – having been widowed a long time ago.
+* I am a retired school teacher.
+* I love road trips and being in the bush.
+* I have chosen the elephant as my mojo for several reasons: 
+  + She also lives into her 70s with strength and purpose; 
+  + She is the head of a matriach society (I like that!); i
+  + She guides her family herds safely down well-worn paths to favourite watering holes. 
 
 ### PLAN IT!
 
-+ Step one: I needed a new vehicle that could take me camping.  
+* Step one: I needed a new vehicle that could take me camping.  
  So I traded in my comfortable suburban car for a cheeky little Suzuki Jimny. 
-+ Step two: Become fully familiar with social media so I can share my experiences. 
-+ Step three: Equip myself with the necessary camping gear. 
-+ Step four: Make sure I can change a tyre.
-+ Step five: Make a flask of coffee, some egg samies, pack the car and go!
+* Step two: Become fully familiar with social media so I can share my experiences. 
+* Step three: Equip myself with the necessary camping gear. 
+* Step four: Make sure I can change a tyre.
+* Step five: Make a flask of coffee, some egg samies, pack the car and go!
 
 ### DO IT!
 
