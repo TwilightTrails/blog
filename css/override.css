@@ -1,3 +1,10 @@
+---
+---
+
+header {
+  background-image: url('{{ site.baseurl }}/images/elly.png');
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
