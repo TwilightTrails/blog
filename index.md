@@ -1,1 +1,1 @@
-| ![Elly alt >]({{ site.url }}/blog/images/elly.png) | MoJo |
+![Elly alt >]({{ site.url }}/blog/images/elly.png "MoJo") 
