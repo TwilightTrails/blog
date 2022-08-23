@@ -1,1 +1,1 @@
-| MoJo | ![Elly alt >]({{ site.url }}/blog/images/elly.png) |
+| ![Elly alt >]({{ site.url }}/blog/images/elly.png) | MoJo |
