@@ -18,7 +18,8 @@ googleplus_username: +username
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "slate"
+# theme: "slate"
+remote_theme: pages-themes/dinky@v0.2.0
 url: "https://twilighttrails.github.io"
 # baseurl: "/blog"
 
@@ -31,6 +32,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 titles_from_headings:
   strip_title: true
