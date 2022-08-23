@@ -20,7 +20,7 @@ googleplus_username: +username
 #########################################################################################
 theme: "minima"
 # url: ""
-baseurl: "/blog"
+# baseurl: "/blog"
 
 #rss: rss
 
