@@ -1,4 +1,4 @@
 #### MoJo2 
 
-![Elly](/images/elly.png "MoJo")
+![Elly]({{ site.url }}/blog/images/elly.png "MoJo")
 
