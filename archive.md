@@ -3,8 +3,8 @@ layout: page
 title: Archive
 ---
 
- ![Elly]({{ site.url }}/blog/images/elly.png "MoJo") <br>
-MoJo (unlike BoJo) never forgets! 
+MoJo (unlike BoJo) never forgets! <br>
+![Elly]({{ site.url }}/blog/images/elly.png "MoJo") 
 
 {% for tag in site.tags %}
   <ul>
