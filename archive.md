@@ -10,7 +10,7 @@ body {
   background-image: url('{{ site.baseurl }}/images/bg_elly.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position: right;
 }
 </style>
 </head>
