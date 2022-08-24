@@ -4,7 +4,6 @@ title: Archive
 ---
 
 MoJo (unlike BoJo) never forgets! <br>
-![Elly]({{ site.url }}/blog/images/elly.png "MoJo") 
 
 {% for tag in site.tags %}
   <ul>
