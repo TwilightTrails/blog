@@ -3,8 +3,8 @@ layout: page
 title: Archive
 ---
 
-| ![Elly]({{ site.url }}/blog/images/elly.png "MoJo") | here you can find previous TwilightTrails blogs <br>
-An elephant never forgets! |
+ ![Elly]({{ site.url }}/blog/images/elly.png "MoJo") <br>
+MoJo (unlike BoJo) never forgets! 
 
 {% for tag in site.tags %}
   <ul>
