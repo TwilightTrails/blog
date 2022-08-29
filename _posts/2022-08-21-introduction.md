@@ -19,9 +19,13 @@ Who am I?
   - ![](https://i.imgur.com/AvbK7MD.jpg)
 
 [ ] **Step two:** Become fully familiar with social media so I can share my experiences.
+
 [ ] **Step three:** Equip myself with the necessary camping gear. 
+
 [ ] **Step four:** Make sure I can change a tyre.
+
 [ ] **Step five:** Learn how to handle my Jimny in wet conditions  
+
 [ ] **Step six:** Make a flask of coffee, some egg samies, pack the car and go!
 
 ### DO IT!
